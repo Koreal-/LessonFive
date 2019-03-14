@@ -147,3 +147,5 @@ var sinceChange = CarInfo(mark: "Toyota", since: 1999, trunk: 800, engineOn: fal
 print(sinceChange.since)
 sinceChange.since = 2018
 print(sinceChange.since)
+print(sinceChange.mark)
+
